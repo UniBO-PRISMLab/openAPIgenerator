@@ -1,0 +1,13 @@
+{
+    "apisToGenerate": 10,
+    "logLevel": "info",
+    "arrowhead": {
+        "host": "localhost",
+        "port": 8443
+    },
+    "server": {
+        "host": "localhost",
+        "port": 8888
+    },
+    "division":[1,2,3,5]
+}
